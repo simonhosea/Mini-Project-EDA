@@ -36,7 +36,7 @@
 ## Data Understanding
 Data of Retail Transaction from 01 December 2010 to 09 December 2011
 Source Data. Supermarket sales. https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales
-The dataset has 8 columns and 541909 rows.
+The dataset has 1000 rows and 20 columns.
 
 Data Dictionary:
 - Invoice id: Computer generated sales slip invoice identification number
