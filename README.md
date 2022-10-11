@@ -35,7 +35,7 @@
 
 ## Data Understanding
 Data of Retail Transaction from 01 December 2010 to 09 December 2011
-Source Data: Online retail dataset by UCI Machine Learning Library. https://archive.ics.uci.edu/ml/datasets/Online+Retail
+Source Data. Supermarket sales. https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales
 The dataset has 8 columns and 541909 rows.
 
 Data Dictionary:
